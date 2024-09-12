@@ -1,7 +1,7 @@
 
 import requests
-import time
 import csv
+import time
 import random
 import concurrent.futures
 from bs4 import BeautifulSoup
